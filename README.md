@@ -7,7 +7,7 @@ While taking classes, I have developed a <a href=https://github.com/Fact-Smash/T
 
 I also developed a <a href=https://github.com/Fact-Smash/Better-Chess>virtual board game inspired by Yu-Gi-Oh! Capsule Monster's Colosseum</a>
 
-In the second semester of my junior year at university, I developed a two player co-op stealth puzzle game with a group of 3 other people named <a href=https://github.com/Fact-Smash/Broken-Night>Broken Night</a>
+In the second semester of my junior year at university, I developed a two player co-op stealth puzzle game with a group of 1 other person and a minor assistance from two others (sound effect development and implementation) named <a href=https://github.com/Fact-Smash/Broken-Night>Broken Night</a>
 
 ## Profiles
 <a href=https://www.linkedin.com/in/quentin-davidson/>LinkedIn</a>
