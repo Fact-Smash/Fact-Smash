@@ -7,7 +7,7 @@ While taking classes, I have developed a <a href=https://github.com/Fact-Smash/T
 
 I also developed a <a href=https://github.com/Fact-Smash/Better-Chess>virtual board game inspired by Yu-Gi-Oh! Capsule Monster's Colosseum</a>
 
-In the second semester of my junior year at university, I developed a two player co-op stealth puzzle game with a group of 1 other person and a minor assistance from two others (sound effect development and implementation) named <a href=https://github.com/Fact-Smash/Broken-Night>Broken Night</a>
+In the second semester of my junior year at university, I developed a two player co-op stealth puzzle game with a group of 1 other major contributor and minor assistance from two others (sound effect development and implementation) named <a href=https://github.com/Fact-Smash/Broken-Night>Broken Night</a>
 
 ## Other Projects:
 In the first semester of my junior year at university, I made improvements to the <a href=https://github.com/Fact-Smash/Fact-Smash/blob/main/iTrust%202%20Project.zip>iTrust 2</a> shell healthcare portal
