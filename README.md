@@ -1,4 +1,4 @@
-My name is Quentin Davidson. I am a prospective Game Developer finishing up my Bachelor's in Computer Science (Game Development Focus) at North Carolina State University in Raleigh, North Carolina.
+My name is Quentin Davidson. I am a prospective Game Developer who just finished my Bachelor's in Computer Science (Game Development Focus) at North Carolina State University in Raleigh, North Carolina.
 
 ## Game Development Experience:
 In my senior year of highschool, I developed a 1st person stealth game named <a href=https://github.com/Fact-Smash/Ghost-Bow>Ghost Bow</a>
